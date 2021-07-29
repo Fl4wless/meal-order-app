@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/meal-order-app/static/css/main.8eade4b1.chunk.css",
+    "main.js": "/meal-order-app/static/js/main.5c112c1d.chunk.js",
+    "main.js.map": "/meal-order-app/static/js/main.5c112c1d.chunk.js.map",
+    "runtime-main.js": "/meal-order-app/static/js/runtime-main.fca8618c.js",
+    "runtime-main.js.map": "/meal-order-app/static/js/runtime-main.fca8618c.js.map",
+    "static/js/2.996db0b6.chunk.js": "/meal-order-app/static/js/2.996db0b6.chunk.js",
+    "static/js/2.996db0b6.chunk.js.map": "/meal-order-app/static/js/2.996db0b6.chunk.js.map",
+    "index.html": "/meal-order-app/index.html",
+    "static/css/main.8eade4b1.chunk.css.map": "/meal-order-app/static/css/main.8eade4b1.chunk.css.map",
+    "static/js/2.996db0b6.chunk.js.LICENSE.txt": "/meal-order-app/static/js/2.996db0b6.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/meal-order-app/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca8618c.js",
+    "static/js/2.996db0b6.chunk.js",
+    "static/css/main.8eade4b1.chunk.css",
+    "static/js/main.5c112c1d.chunk.js"
+  ]
+}
